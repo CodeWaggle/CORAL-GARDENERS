@@ -15,7 +15,7 @@ Corals are found all over the world's oceans, from the Aleutian Islands off the 
 
 ![image](https://drive.google.com/uc?export=view&id=16aQBNYRzhe1Xg5w7qpn5xjUBqxN0im1X)
 
-## Problem Statment
+## Problem Statement
 
 Coral Reefs have been dying out at a rapid pace over the years. This is due to a wide set of reasons like inadequate awareness among the community, lack of knowledgeable resources for all ages, ineffective climate measures etc. Human activity and a warming planet are rapidly degrading these precious and fragile ecosystems.
 
