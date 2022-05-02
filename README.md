@@ -1,4 +1,3 @@
-# CORAL-GARDENERS
 # United Nations World Innovation Day Hack 2022  
  
 ![image](https://drive.google.com/uc?export=view&id=1eTXPdc-J3QS6rfEY0cxUFFU_ugJ382o3)
