@@ -104,7 +104,7 @@ CORAL GARDENERS will provide a marketplace for NFT creators who have underwater 
 [Our presentation slides, please !](https://docs.google.com/presentation/d/1enL62UDvzbNuPkFUlX1hiT0SCmMeUw5ksvug5ez0YnQ/edit#slide=id.g126be710dcb_7_11)
 
 ## Final Video
-[*To be a champion, compete; to be a great champion, compete with the best; but to be the greatest champion, compete with yourself*](https://youtu.be/NhgYni1v8QI)
+[*To be a champion, compete; to be a great champion, compete with the best; but to be the greatest champion, compete with yourself*](https://www.youtube.com/watch?v=NhgYni1v8QI&feature=emb_logo)
 
 
 ## Our Amazing Team
