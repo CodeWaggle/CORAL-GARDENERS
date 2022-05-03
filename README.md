@@ -83,6 +83,15 @@ CORAL GARDENERS will provide a marketplace for NFT creators who have underwater 
 - [Canva](https://www.canva.com)
 - [Adobe Photoshop - Canvas](https://www.adobe.com/)
 
+## Building the Coral Gardeners.sql file
+Steps
+  -  Login to APEX as the developer with your credentials
+  -  if you want to install the app (which is an SQL file) you need to do the Import of the Application and pass that file across to import and build the 
+     supporting objects
+  - You should run the script connected to SQL*Plus as the Oracle user APEX_220100 or as the owner (parsing schema) of the application
+  -  or for standard tables use SQL Workspace to run sql script provided
+  -  Use Object Browswer to see what database objects the script has created. TADA
+
 ## Research Document
 [Look at our Research Document, please!](https://docs.google.com/document/d/10IbE9c50wdzqiuzbYAXASws7El42F2Wu2A7X2pXdGYM/edit)
 
