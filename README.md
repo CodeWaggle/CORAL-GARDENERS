@@ -87,7 +87,7 @@ CORAL GARDENERS will provide a marketplace for NFT creators who have underwater 
 **_Steps_**
   -  Login to APEX as the developer with your credentials
   
-  [image](https://drive.google.com/uc?export=view&id=1347A_AQ1kocTwb3W0lMFN7Di03BWWJ-m)
+  ![image](https://drive.google.com/uc?export=view&id=1347A_AQ1kocTwb3W0lMFN7Di03BWWJ-m)
   
   -  if you want to install the app (which is an SQL file) you need to do the Import of the Application and pass that file across to import and build the 
      supporting objects
